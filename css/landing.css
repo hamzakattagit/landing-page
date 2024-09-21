@@ -1,0 +1,94 @@
+@media screen and (max-width: 780px) {
+    .carousel-item .img {
+        width: 750px;
+        height: 500px;
+    }
+
+    .about-img .img-fluid {
+        text-align: center;
+        width: 700px;
+        height: 400px;
+        padding-bottom: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+.about-text p {
+    text-align: center;
+}
+
+.about-text h2 {
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 15px;
+}
+
+.col-12 .card-titel {
+    padding-top: 15px;
+}
+
+}
+img.img {
+    width: 100vw;
+    height: 100vh;
+}
+
+h3 {
+    font-size: larger;
+    color: rgb(255, 204, 62);
+}
+
+h4 {
+    color: blue;
+}
+
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar-light .navbar-brand {
+    color: #000;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+    color: #000;
+}
+
+.navbar-light .navbar-nav .navbar-link {}
+
+.card .btn {
+    width: 40%;
+
+}
+
+.card .lead {
+    padding: 0 2%;
+}
+
+.card {
+    padding: 5%;
+}
+
+.bi {
+    font-size: xx-large;
+}
+
+.portofolio .card {
+    box-shadow: 15px 15px 40px rgb(0, 0, 0, 0.25);
+}
+
+.team .card {
+    box-shadow: 15px 15px 40px rgb(0, 0, 0, 0.25);
+}
+
+.md-3 {
+    box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.25);
+}
